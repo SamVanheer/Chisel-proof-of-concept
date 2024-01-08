@@ -1,0 +1,23 @@
+target_sources(Chisel
+	PRIVATE
+		OptionsDialog.cpp
+		OptionsDialog.hpp
+		OptionsDialog.ui
+		OptionsPage2DViews.cpp
+		OptionsPage2DViews.hpp
+		OptionsPage2DViews.ui
+		OptionsPage3DViews.cpp
+		OptionsPage3DViews.hpp
+		OptionsPage3DViews.ui
+		OptionsPageBuildPrograms.cpp
+		OptionsPageBuildPrograms.hpp
+		OptionsPageBuildPrograms.ui
+		OptionsPageGameConfigurations.cpp
+		OptionsPageGameConfigurations.hpp
+		OptionsPageGameConfigurations.ui
+		OptionsPageGeneral.cpp
+		OptionsPageGeneral.hpp
+		OptionsPageGeneral.ui
+		OptionsPageTextures.cpp
+		OptionsPageTextures.hpp
+		OptionsPageTextures.ui)

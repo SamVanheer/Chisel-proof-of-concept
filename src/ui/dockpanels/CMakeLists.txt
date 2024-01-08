@@ -1,0 +1,14 @@
+target_sources(Chisel
+	PRIVATE
+		MapEditToolsSidebar.cpp
+		MapEditToolsSidebar.hpp
+		MapEditToolsSidebar.ui
+		NewObjectsDock.cpp
+		NewObjectsDock.hpp
+		NewObjectsDock.ui
+		TextureBrowserDock.cpp
+		TextureBrowserDock.hpp
+		TextureBrowserDock.ui
+		VisGroupsDock.cpp
+		VisGroupsDock.hpp
+		VisGroupsDock.ui)
